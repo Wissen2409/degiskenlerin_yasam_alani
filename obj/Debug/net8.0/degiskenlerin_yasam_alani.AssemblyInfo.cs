@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("degiskenlerin_yasam_alani")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc2885cdbe1937f2698e62a2fb0bd5d0ad4ef12d")]
 [assembly: System.Reflection.AssemblyProductAttribute("degiskenlerin_yasam_alani")]
 [assembly: System.Reflection.AssemblyTitleAttribute("degiskenlerin_yasam_alani")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
